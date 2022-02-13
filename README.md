@@ -1,0 +1,2 @@
+# errorGit
+Ignore this, Majo
